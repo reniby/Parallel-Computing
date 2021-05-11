@@ -1,2 +1,2 @@
 # Parallel-Computing
-3 labs for parallel computing, one in MPI, one in openMP, and one in ______.
+2 labs for parallel computing, one in MPI, one in openMP
